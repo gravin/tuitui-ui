@@ -7,6 +7,7 @@
  
 /* 内容区 body里面已经设置了max-width了*/
 .tt-content{
+    height:100%;
     box-sizing: border-box;
     position: relative;
     overflow-y: auto;
